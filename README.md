@@ -1,4 +1,4 @@
-I’m Peter Macgregor, a Research Associate in Algorithms and Complexity at the University of Edinburgh. My research interests are in unsupervised learning, graph clustering, and algorithmic spectral graph theory. Please see [my website](https://pmacg.github.io) for more information on my work.
+I’m Peter Macgregor, a Research Associate in Algorithms and Complexity at the University of Edinburgh. My research interests are in unsupervised learning, graph clustering, and algorithmic spectral graph theory. Please see [my website](http://pmacg.io) for more information on my work.
 
 I am currently working on building the [STAG library](https://github.com/stagorg/stag), which is a new C++ and python library providing efficient spectral algorithms for analysing massive graphs.
 
