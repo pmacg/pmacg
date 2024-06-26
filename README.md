@@ -1,8 +1,6 @@
-I’m Peter Macgregor, a Research Associate in the School of Informatics at the University of Edinburgh. My research interests are in unsupervised learning, graph clustering, and algorithmic spectral graph theory. Please see [my website](http://pmacg.io) for more information on my work.
+I’m a Lecturer in the School of Computer Science at the University of St Andrews. My research interests are broadly in algorithms for data science and machine learning and I always aim to develop theoretically sound algorithms which work well in practice. Please see [my website](http://pmacg.io) for more information on my work.
 
-I am currently working on building the [STAG library](https://github.com/stagorg/stag), which is a new C++ and python library providing efficient spectral algorithms for analysing massive graphs.
-
-If you'd like help with any of my repositories, or you'd just like to connect, then you can reach me at [peter.macgregor@ed.ac.uk](mailto:peter.macgregor@ed.ac.uk).
+If you'd like help with any of my work, or you'd just like to connect, then please do get in touch using the contact details on my website.
 
 <!---
 pmacg/pmacg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
